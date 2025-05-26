@@ -1,0 +1,42 @@
+{class: part}
+
+# Introduction
+
+S'il y a bien une chose qui met d'accord la majorité des développeurs, c'est bien le fait que le **Domain-Driven Design
+est un sujet difficile à comprendre et à apprendre**, et ce malgré la quantité colossale d'articles, de vidéos et de
+cours sur Internet.
+
+Je sais que ça peut sembler être une montagne. Je suis passé par là moi aussi.
+
+Alors j'ai décidé d'écrire le livre que j'aurai voulu lire lorsque je me suis lancé dans cette aventure il y a un peu
+plus de 6 ans, celui qui aurait dû tomber entre mes mains avant de commencer le livre de Eric Evans, celui qui m'aurait
+prévenu que son fameux livre était bien trop compliqué à lire pour un apprenti comme moi.
+
+Vous n'allez pas apprendre le Domain-Driven Design avec ce livre. Mais vous aurez un carnet de route qui vous accompagnera
+dans votre apprentissage, qui vous donnera les pistes à suivre et essayera de vous guider avec des exemples et des
+définitions simples.
+
+C'est un petit livret à lire en supplément d'autres ressources.
+
+# Comment lire ce livre
+
+Le livret est composé de 3 parties : Discovery, Strategy et Tactical. Il n'y a pas de notion plus importante que les autres,
+car elles sont toutes vitales dans le Domain-Driven Design.
+
+La partie **Discovery** s'intéresse au point de départ du Domain-Driven Design : quel problème essayons-nous de résoudre
+avec notre logiciel ? Quelle est la raison d'être de notre boite ? Comment fait-elle de l'argent ? Qu'est-ce qui la différencie
+de ses concurrents, et pourquoi les clients viennent chez nous plutôt que chez eux ?
+
+En bref, c'est comprendre profondément, en dehors du code, le problème que vient résoudre notre produit.
+
+La partie **Strategy** reconnait que très souvent, une solution technique peut devenir très large et bien trop difficile
+à gérer pour une équipe. Alors au lieu de tout mélanger dans un seul, gros bloc de code où tout est lié à tout, on créé
+des frontières entre les différentes parties de notre code, frontières qui sont hautement indépendantes les unes des autres
+et qui communiquent ensemble uniquement grâce à des interfaces publiques bien définies.
+
+Enfin, la partie **Tactical** s'intéresse à l'implémentation du code elle-même. Elle nous apporte les outils pour coder
+d'une façon qui rend le code extrêmement lisible à la fois pour les développeurs et pour les "experts métier", ceux qui maitrisent
+les règles et comprennent en profondeur ce que fait notre logiciel.
+
+Le livre se lit idéalement dans l'ordre dans lequel j'ai présenté les présenté les parties, mais vous pouvez le lire dans
+le sens que vous voulez.

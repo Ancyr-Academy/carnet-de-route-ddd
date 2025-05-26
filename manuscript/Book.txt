@@ -1,2 +1,4 @@
-chapter1-discovery.txt
-chapter2-strategy.txt
+1-strategy.txt
+2-discovery.txt
+3-strategy.txt
+4-tactical.txt

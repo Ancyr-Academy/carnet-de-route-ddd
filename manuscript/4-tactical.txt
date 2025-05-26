@@ -1,0 +1,19 @@
+{class: part}
+
+# Strategy
+
+Maintenant qu'on a bien compris comment solutionner
+
+# Bounded Contexts
+
+Ceci, cela, test et test
+
+## Context Mapping
+
+Test 123
+
+## Integration
+
+Test 123
+
+# Maps
