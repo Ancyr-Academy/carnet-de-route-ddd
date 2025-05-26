@@ -4,6 +4,16 @@
 
 Maintenant qu'on a bien compris comment solutionner
 
-# Introduction
+# Bounded Contexts
 
 Ceci, cela, test et test
+
+## Context Mapping
+
+Test 123
+
+## Integration
+
+Test 123
+
+# Maps
