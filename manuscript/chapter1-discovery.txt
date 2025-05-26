@@ -1,0 +1,10 @@
+{class: part}
+
+# Discovery
+
+La première partie du Domain-Driven Design, pour beaucoup considérée la plus importante, consiste en la compréhension
+du Problème Space. On parle alors de Discovery.
+
+# Introduction
+
+Ceci, cela, test et test

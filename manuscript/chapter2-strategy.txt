@@ -1,0 +1,9 @@
+{class: part}
+
+# Strategy
+
+Maintenant qu'on a bien compris comment solutionner
+
+# Introduction
+
+Ceci, cela, test et test
