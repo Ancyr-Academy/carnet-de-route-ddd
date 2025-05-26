@@ -2,19 +2,31 @@
 
 # Discovery
 
-La première partie du Domain-Driven Design, pour beaucoup considérée la plus importante, consiste en la compréhension
-du Problème Space. On parle alors de Discovery.
+## Comprendre le Problème
 
-# Introduction
+Un problème bien compris est un problème à moitié résolu. Et s'il y a bien deux mondes qui sont difficiles à réconcilier,
+ce sont bien celui des développeurs et celui des utilisateurs.
 
-Ceci, cela, test et test
+L'utilisateur est intéressé par la façon dont le produit va l'aider à accomplir quelque chose : gagner de l'argent,
+économiser du temps, perdre moins d'argent, développer des compétences, être plus heureux... Son utilisation du produit
+est dicté par sa motivation. Et si le produit ne l'aide pas à obtenir ce qu'il désire, ou si le rapport bénéfice / contrainte
+n'est pas intéressant pour lui, il ira voir ailleurs.
 
-## Une sous partie
+A côté de ça, le développeur est intéressé par l'aspect technique du produit. Il pense en termes d'objets, de classes,
+de fonctions, de services, de technologie en générale. Toute sa formation l'a poussé à s'intéresser aux menu détails :
+comment brancher une API, se connecter à Stripe, quelle base de données utiliser. Son esprit est obscurcit par la technique.
 
-Test 123
+Ces deux catégories ne s'entendent pas très bien et ont beaucoup de mal à communiquer, si bien que très souvent, le logiciel
+développé ne convient pas vraiment à ceux qui l'utilisent.
 
-## Une autre sous partie
+Pour citer Eric Evans :
 
-Test 123
+> Ce qui arrive en production n'est pas le logiciel attendu mais seulement ce que les développeurs en ont compris.
 
-# Une autre partie
+La réflexion du Domain-Driven Design commence ici : comment unifier le modèle mental des développeurs avec celui des sachants ?
+Comment faire en sorte que les développeurs pensent et raisonnent avec le vocabulaire et les idées des experts métiers ? L'idée
+principale du Domain-Driven Design est de guider le développement logiciel par ce qu'on appelle le Domain.
+
+## Domain
+
+Aha !
